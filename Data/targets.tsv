@@ -1,0 +1,2 @@
+Lex	Type	Regex	Direction
+afib	TARGET	(?i)\bafib\b|\batrial\sfib|a-fib|a\.\sfib|a\.fib|\ba\sfib\b	forward
